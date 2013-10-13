@@ -1,5 +1,5 @@
 {
-    "name": "evert/google-api-php-client",
+    "name": "gibraltar/google-api-php-client",
     "type": "library",
     "description": "Google API library for PHP",
     "keywords": ["google","gdata"],
@@ -7,9 +7,9 @@
     "license": "Apache 2.0",
     "authors": [
         {
-            "name": "Evert Pot",
-            "email": "evert@rooftopsolutions.nl",
-            "homepage": "http://www.rooftopsolutions.nl/"
+            "name": "Andrei Odeski",
+            "email": "andrei@odeski.ca",
+            "homepage": "http://www.odeski.ca/"
         }
     ],
     "require": {
